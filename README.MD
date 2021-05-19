@@ -1,6 +1,6 @@
 # Real-time Scene Text Detection with Differentiable Binarization
 
-# 代码有所改动。看源码请前往[](https://github.com/wenmuzhou/DBNet.pytorch)
+# 代码有所改动。看源码请前往[DBNet.pytorch](https://github.com/wenmuzhou/DBNet.pytorch)
 
 **note**: some code is inherited from [MhLiao/DB](https://github.com/MhLiao/DB)
 
